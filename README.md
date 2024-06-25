@@ -19,4 +19,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/spotcontrol.git
+   git clone https://github.com/joselimadev/spotcontrol.git
